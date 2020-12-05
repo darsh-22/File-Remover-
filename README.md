@@ -1,4 +1,4 @@
-# File-Remover-
+# File-Remover
 
 - This is the simple python application to remove any file format in any folder.
 
