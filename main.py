@@ -10,7 +10,10 @@ import os
 PATH = "Enter your Path Here"
 
 # Returns a list of names in list files. 
-print("Using glob.glob()") 
+print("**************** Starting deletion...  ****************") 
 files = glob.glob( PATH , recursive = True) 
 for file in files: 
+    print("******** Processing ********")
     os.remove(file)
+
+print("**************** Deleted Succesfully   ****************") 
