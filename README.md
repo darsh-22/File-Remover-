@@ -8,7 +8,15 @@
 - Os: Os module provides a portable way of using operating system dependent functionality
 - Glob: The glob module finds all the pathnames matching a specified pattern according to the rules used by the Unix shell
 
-### Execution
+## Run code
 
-- To run the application Execute below command in terminal
-- `python main.py`
+```
+python main.py
+```
+# Author
+
+Darshil Aslaliya
+
+GitHub : darsh-22
+
+Mail : darshilaslaliya2522@gmail.com
