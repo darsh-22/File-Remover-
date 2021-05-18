@@ -13,7 +13,6 @@ PATH = "Enter your Path Here"
 print("**************** Starting deletion...  ****************") 
 files = glob.glob( PATH , recursive = True) 
 for file in files: 
-    print("******** Processing ********")
     os.remove(file)
 
 print("**************** Deleted Succesfully   ****************") 
